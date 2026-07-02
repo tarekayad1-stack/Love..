@@ -11,7 +11,7 @@ const audio = document.getElementById('audio');
 const playBtn = document.getElementById('playBtn');
 const progress = document.getElementById('progress');
 
-const letterText = `بصي يا حبيبتي، احنا أهو عارفين بعض بقالنا فترة صغيرة، ويوم ما دخلتي حياتي ودخلت حياتك كانت فجأة ومش مترتبة، جت صدفة بس، وحياتك عندي أحسن صدفة وأجمل حاجة حصلت في حياتي.
+const letterText = `بصي يا حبيبتي، احنا أها عارفين بعض بقالنا فترة صغيرة، ويوم ما دخلتي حياتي ودخلت حياتك كانت فجأة ومش مترتبة، جت صدفة بس وحياتك عندي أحسن صدفة وأجمل حاجة حصلت في حياتي.
 
 علشان عرفتني على أجمل بنت وأحن وأطيب قلب.
 
